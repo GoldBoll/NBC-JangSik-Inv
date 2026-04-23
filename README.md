@@ -1,6 +1,6 @@
 # 언리얼 마스터 과제 — 인벤토리 시스템 구현계획
 
-![Demo](https://github.com/user-attachments/assets/68242a82-a327-4551-8769-24609605deb2)
+https://github.com/user-attachments/assets/68242a82-a327-4551-8769-24609605deb2
 
 **프로젝트 경로:** `D:\Unreal\NBC_JangSik_Inv`  
 **구조:** Character 직접 구현 (Component 분리 없음)  
