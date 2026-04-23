@@ -1,5 +1,7 @@
 # 언리얼 마스터 과제 — 인벤토리 시스템 구현계획
 
+![Demo](https://github.com/user-attachments/assets/68242a82-a327-4551-8769-24609605deb2)
+
 **프로젝트 경로:** `D:\Unreal\NBC_JangSik_Inv`  
 **구조:** Character 직접 구현 (Component 분리 없음)  
 **참고 챕터:** 1-7(리플렉션) · 3-1(아이템 설계) · 3-3(데이터 관리) · 4-1(UMG)
